@@ -1,0 +1,5 @@
+SYNOPSYS
+
+    git clone git@github.com:okamuuu/Practice-JsTest.git
+    sh script/phantomjs_test.sh
+    sh script/jstestdriver.sh
